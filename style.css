@@ -17,6 +17,9 @@ body{
 }
 
 .Calculator{
+    font-size: larger;
+    font-style: italic;
+    color:  white;
     border: 1px solid grey;
     padding: 20px;
     border-radius: 16px;
@@ -28,6 +31,7 @@ body{
 
 input{
     width:320px;
+    color: white;
     border: none;
     padding: 24px;
     margin: 10px;
@@ -52,7 +56,7 @@ button{
     cursor: pointer;
 }
 .equalBtn{
-    background-color:  #fb7c14;
+    background-color: orange;
 }
 .oprater{
     color:green ;
